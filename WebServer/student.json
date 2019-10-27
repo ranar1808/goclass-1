@@ -1,0 +1,22 @@
+{
+    "users":[
+        {
+            "name" : "Arborea",
+            "job":"Developer",
+            "age":"22",
+            "social":{
+                "instagram":"https://instagram.com/ranar1808",
+                "twitter":"https://Twitter.com/u/ranar1808"
+            }
+        },
+        {
+            "name" : "Ibob",
+            "job":"Software Engineer",
+            "age":"22",
+            "social":{
+                "instagram":"https://instagram.com/ranar1808",
+                "twitter":"https://Twitter.com/u/ranar1808"
+            }
+        }
+    ]
+}
